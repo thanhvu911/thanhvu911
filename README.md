@@ -1,6 +1,6 @@
 # Thanh Vu
 
-Lancaster, PA &nbsp;|&nbsp; [vulethanh07112002@gmail.com](mailto:vulethanh07112002@gmail.com) &nbsp;|&nbsp; 717-869-9502|[LinkedIn](https://www.linkedin.com/in/thanh25/) &nbsp;|&nbsp; [GitHub](https://github.com/thanhvu911)
+Lancaster, PA &nbsp;|&nbsp; [vulethanh07112002@gmail.com](mailto:vulethanh07112002@gmail.com) &nbsp;|&nbsp; 717-869-9502 &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/thanh25/) &nbsp;|&nbsp; [GitHub](https://github.com/thanhvu911)
 
 ---
 
