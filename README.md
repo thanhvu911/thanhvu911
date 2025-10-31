@@ -18,17 +18,17 @@ Relevant Coursework: Introduction to Statistical Modeling, Probability and Stati
 ### 💻 Projects
 
 **Retail Performance Intelligence Hub (SQL)** • _August 2025_  
-[GitHub: link](#)  
+[GitHub: [link](https://github.com/thanhvu911/Grocery_Transaction_Datawarehouse)](#)  
 - Designed and implemented a SQL-based data warehouse using the Medallion Architecture (Bronze–Silver–Gold) to support retail performance analytics across products, customers, transactions, and logistics.
 - Developed ETL pipelines and stored procedures to clean and transform raw CSV data into structured reporting layers, enabling insights into sales trends, delivery efficiency, and customer behavior.
 
-**Sales Planning Analysis Project (PowerBI, Excel, DAX)** • _August 2025_  
-[GitHub: link](#)  
+**Sales Planning Analysis Project (Power BI, Excel, DAX)** • _August 2025_  
+[GitHub: [link](https://github.com/thanhvu911/KPIM-Mart-Sales-analysis-reporting)](#)  
 - Built a sales performance dashboard in Power BI by integrating sales and monthly plan data from SQL Server using Galaxy Schema, enabling KPI tracking across stores and time.
 - Developed Power Query transformations and DAX measures to calculate plan completion rates, year-over-year growth, and 12-month trends by store, product group, and region for executive insights.
 
 **Medical Cost Prediction (R, Linear Regression)** • _November 2021_  
-[GitHub: link](#)  
+[GitHub: [link](https://github.com/thanhvu911/Medical-Cost-Prediction)](#)  
 - Investigated the impact of age and sex on medical insurance charges using a dataset of 1,338 U.S. individuals.
 - Applied linear regression modeling and data visualization in R to assess predictive factors, revealing age as a moderate influencer while sex had minimal effect.
 
