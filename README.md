@@ -16,7 +16,7 @@ I build data pipelines, warehouses, and BI models that turn raw public and busin
 | [Grocery Transaction Data Warehouse](https://github.com/thanhvu911/grocery-transaction-data-warehouse) | Bronze → Silver → Gold warehouse with stored-procedure ETL, data-quality tests, and a documented star schema | SQL Server, T-SQL |
 | [Lancaster Economic Indicators Dashboard](https://github.com/thanhvu911/lancaster-economic-indicators-dashboard) | Multi-fact Power BI model benchmarking Lancaster County against Pennsylvania and the U.S. on labor, GDP, and wages | Power BI, DAX, BLS / BEA data |
 | [Sales Planning Analysis](https://github.com/thanhvu911/sales-planning-analysis) | Galaxy-schema model comparing actual sales against plan by store, product, and region | Power BI, DAX, SQL Server |
-| [RFM Customer Segmentation](https://github.com/thanhvu911/rfm-customer-segmentation-powerbi) | Config-driven RFM scoring that maps customers to segments and actions | Power BI, DAX |
+| [RFM Customer Segmentation](https://github.com/thanhvu911/rfm-customer-segmentation-powerbi) | RFM scoring in DAX that maps customers to segments and recommended actions | Power BI, DAX |
 | [Bank Transaction SQL Analysis](https://github.com/thanhvu911/bank-transaction-sql-analysis) | Data validation, cleaning, and exploratory analysis in T-SQL | SQL Server |
 
 ### Toolbox
