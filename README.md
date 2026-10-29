@@ -4,7 +4,7 @@
 
 I build data pipelines, warehouses, and BI models that turn raw public and business data into decisions people can act on.
 
-[Portfolio](https://thanh-vu-data-wiz.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/thanh25/) · [Email](mailto:vulethanh07112002@gmail.com)
+[Portfolio](https://thanhvu911.github.io/) · [LinkedIn](https://www.linkedin.com/in/thanh25/) · [Email](mailto:vulethanh07112002@gmail.com)
 
 ---
 
